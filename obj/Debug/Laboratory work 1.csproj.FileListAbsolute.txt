@@ -1,0 +1,7 @@
+H:\Studying\OOP\Labs\Lab 1 project\Laboratory work 1\bin\Debug\Laboratory work 1.exe.config
+H:\Studying\OOP\Labs\Lab 1 project\Laboratory work 1\bin\Debug\Laboratory work 1.exe
+H:\Studying\OOP\Labs\Lab 1 project\Laboratory work 1\bin\Debug\Laboratory work 1.pdb
+H:\Studying\OOP\Labs\Lab 1 project\Laboratory work 1\obj\Debug\Laboratory work 1.csproj.AssemblyReference.cache
+H:\Studying\OOP\Labs\Lab 1 project\Laboratory work 1\obj\Debug\Laboratory work 1.csproj.CoreCompileInputs.cache
+H:\Studying\OOP\Labs\Lab 1 project\Laboratory work 1\obj\Debug\Laboratory work 1.exe
+H:\Studying\OOP\Labs\Lab 1 project\Laboratory work 1\obj\Debug\Laboratory work 1.pdb
